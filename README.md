@@ -12,9 +12,10 @@ Recommendation Systems in the world of machine learning have become very popular
 
 The business objective for us is:
 
-To create a Collaborative Filtering based Movie Recommendation System
-Predict the rating that a user would give to a movie that he has not yet rated
-Minimize the difference between predicted and actual rating (RMSE and MAPE)
+1. To create a Collaborative Filtering based Movie Recommendation System
+2. Predict the rating that a user would give to a movie that he has not yet rated
+3. Minimize the difference between predicted and actual rating (RMSE and MAPE)
+   
 Data Collection :
 The dataset has been obtained from Grouplens.
 
@@ -31,9 +32,10 @@ For our objective, we would be using "ratings.csv" and "movies.csv" data files.
 Modelling :
 The following modelling approach was used in the project:
 
-Loading & exploring the Movie and User ratings data
-Creating User-Item Matrix, User-User and Item-Item similarity matrices for Movie Recommendations
-Creating feature and applying ML models to predict the ratings for unseen movies for a user
+1. Loading & exploring the Movie and User ratings data
+2. Creating User-Item Matrix, User-User and Item-Item similarity matrices for Movie Recommendations
+3. Creating feature and applying ML models to predict the ratings for unseen movies for a user
+
 The detailed analysis and model creation can be found in the .ipynb file.
 
 Result :
@@ -41,17 +43,31 @@ Some of the test images are given below.
 
 The results from Movie-Movie Similarity is as below:
 
+![M_1](https://github.com/user-attachments/assets/6941425b-f6c3-46d1-8a81-225d12a89ce9)
+
 
 The results from User-User Similarity is as below:
+
+![M_2](https://github.com/user-attachments/assets/9bcc6760-fcee-475b-a149-9a0a358992f0)
+
 
 
 The Feature Importance for predicting ratings is as below:
 
+![M_3](https://github.com/user-attachments/assets/0774da0a-52ad-443e-bf08-fcb8ac5b109d)
+
+
 
 The results from different ML models are as follows:
 
+![M_4](https://github.com/user-attachments/assets/a6acc448-60df-4858-8e82-9dafcc0281f3)
+
+
 
 The sample movie recommendation based on Collaborative Filtering is as follows:
+
+![M_5](https://github.com/user-attachments/assets/f6cd01e9-8bcf-4575-bec7-236632577a3b)
+
 
 
 Conclusions :
