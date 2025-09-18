@@ -1,7 +1,7 @@
 # AI-ML-Project
 This repository contains all my AI/ML Projects
 <hr/>
-1. Movie Recommendation System:-
+1. Movie Recommender System:-
 
 ![Logo](https://github.com/user-attachments/assets/efc8ba56-8f50-45d9-af05-e6bbbf1c58e5)
 
