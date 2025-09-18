@@ -1,4 +1,4 @@
-# AI-ML-Projects
+# AI-ML-Project
 This repository contains all my AI/ML Projects
 <hr/>
 1. Movie Recommendation System:-
